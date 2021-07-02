@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Universum.DMIS.Web.UI.Models.Students.StudentGetModel>
+@{
+    Layout = "../Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>First name</th>
+                <th>Last name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.Id</td>
+                    <td>@student.FirstName</td>
+                    <td>@student.LastName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
