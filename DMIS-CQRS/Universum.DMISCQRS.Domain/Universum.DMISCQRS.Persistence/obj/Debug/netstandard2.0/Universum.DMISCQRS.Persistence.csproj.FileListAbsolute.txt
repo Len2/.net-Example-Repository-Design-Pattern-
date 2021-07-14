@@ -1,0 +1,14 @@
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\bin\Debug\netstandard2.0\Universum.DMISCQRS.Domain.dll
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\obj\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.AssemblyInfoInputs.cache
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\obj\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.AssemblyInfo.cs
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\obj\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.csprojAssemblyReference.cache
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\bin\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.deps.json
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\bin\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.dll
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\bin\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.pdb
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\bin\Debug\netstandard2.0\Universum.DMISCQRS.Application.dll
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\bin\Debug\netstandard2.0\Universum.DMISCQRS.Application.pdb
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\bin\Debug\netstandard2.0\Universum.DMISCQRS.Domain.pdb
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\obj\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.csproj.CoreCompileInputs.cache
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\obj\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.csproj.CopyComplete
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\obj\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.dll
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Persistence\obj\Debug\netstandard2.0\Universum.DMISCQRS.Persistence.pdb

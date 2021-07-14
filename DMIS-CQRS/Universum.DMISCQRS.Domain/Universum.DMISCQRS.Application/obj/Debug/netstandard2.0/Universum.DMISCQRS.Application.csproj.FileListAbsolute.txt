@@ -1,0 +1,12 @@
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\bin\Debug\netstandard2.0\Universum.DMISCQRS.Application.deps.json
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\bin\Debug\netstandard2.0\Universum.DMISCQRS.Application.dll
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\obj\Debug\netstandard2.0\Universum.DMISCQRS.Application.AssemblyInfoInputs.cache
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\obj\Debug\netstandard2.0\Universum.DMISCQRS.Application.AssemblyInfo.cs
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\bin\Debug\netstandard2.0\Universum.DMISCQRS.Domain.dll
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\bin\Debug\netstandard2.0\Universum.DMISCQRS.Application.pdb
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\bin\Debug\netstandard2.0\Universum.DMISCQRS.Domain.pdb
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\obj\Debug\netstandard2.0\Universum.DMISCQRS.Application.csprojAssemblyReference.cache
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\obj\Debug\netstandard2.0\Universum.DMISCQRS.Application.csproj.CopyComplete
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\obj\Debug\netstandard2.0\Universum.DMISCQRS.Application.dll
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\obj\Debug\netstandard2.0\Universum.DMISCQRS.Application.pdb
+C:\projects\DMIS-CQRS\Universum.DMISCQRS.Domain\Universum.DMISCQRS.Application\obj\Debug\netstandard2.0\Universum.DMISCQRS.Application.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WRdNLUR4bwik2nQm+DGvVtISb03OmhP1bSjoRH1stlaARg/l1qapqKI1zTeQhj2Jr6a/PanHPGX6vdu+kODZaw==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\DMIS-CQRS\\Universum.DMISCQRS.Domain\\Universum.DMISCQRS.Domain\\Universum.DMISCQRS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Students\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Students\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
